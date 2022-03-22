@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jazzdivined
-- 👀 I’m interested in Web Development, Software Development, Data Science
+- 👀 I’m interested in Web Development, Software Development, and Game Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on making websites
 - 📫 How to reach me (Not yet, I'm shy)
