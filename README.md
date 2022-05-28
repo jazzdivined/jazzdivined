@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jazzdivined
-- 👀 I’m interested in Web Development, Software Development, and Game Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Web Development, Software Development
+- 🌱 I’m currently learning Angular and ASP.NET
 - 💞️ I’m looking to collaborate on making websites
-- 📫 How to reach me (Not yet, I'm shy)
+- 📫 Contact my discord at -> Aspidefaer#2972
 
 <!---
 jazzdivined/jazzdivined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
